@@ -1,0 +1,7 @@
+cwd: ???
+root_dir: 'C:\Users\10938\Desktop\dirKG\centos7'  #要处理的文件夹
+excel_path: 'excel' #抽取实体和关系的excel存储路径
+triple_number_path: 'triples_number' #抽取实体和关系的三元组存储路径（数字化）
+
+
+#在os.path.join()函数中，如果后面的路径是绝对路径，那么前面的路径会被忽略
